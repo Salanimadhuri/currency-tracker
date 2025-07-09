@@ -64,7 +64,7 @@ currency-tracker/
 
 ## 📷 Screenshots
 
-
+![alt text](image.png)
 
 ---
 

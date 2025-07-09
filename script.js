@@ -1,4 +1,4 @@
-const API_KEY = "B0iqB9Pr3W0HbNARnd7TBPR6LKmeSqYh";
+const API_KEY = "Nb2m0fF12lihBIKsgOaexmzWUzQlfNaA";
 const BASE_URL = "https://api.apilayer.com/fixer/latest";
 
 const amountInput = document.getElementById("amount");
